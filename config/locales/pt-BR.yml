@@ -87,7 +87,7 @@ pt-BR:
       time_trackers:
         errors:
           bulk_error_preface: Erros do registro de tempo id %{id}
-          not_found: Esse registro de tempo não existe
+          not_found: Esse registro de tempo não existe ou já foi encerrado ao passar o ponto. Por favor recarregue a tela.
       time_logs:
         errors:
           already_booked: Esse horário já foi reservado
